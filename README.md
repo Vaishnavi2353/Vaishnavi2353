@@ -1,9 +1,13 @@
-Hi, I'm Vaishnavi!
+# Hi, I'm Vaishnavi Dwivedi!
 
 I'm a Computer Science student who enjoys learning by building and solving problems.
 
-I'm curious about how things work behind the scenes, enjoy exploring new ideas, and believe in getting better through consistent practice.
+I like exploring how things work behind the scenes, experimenting with new ideas, and improving through hands-on practice.
 
-Currently exploring, building, and growing one project at a time.
+- Currently learning and building projects.
+- Interested in software development and AI.
+- Always working to improve my problem-solving skills.
+
+### Connect with me
 
 [LinkedIn](https://linkedin.com/in/vaishnavi-dwivedi) 
